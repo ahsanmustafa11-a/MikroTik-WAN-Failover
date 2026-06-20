@@ -1,0 +1,10 @@
+Relying on a single ISP creates a single point of failure for growing companies. A Dual-WAN configuration is the minimum requirement for 24/7 network availability. Using MikroTik’s recursive routing ensures instant, automated failover to a backup link during primary outage events.
+
+
+ISP1 Down
+↓
+Automatic Detection
+↓
+Switch to ISP2
+↓
+Users Continue Working
